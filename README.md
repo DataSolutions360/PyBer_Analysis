@@ -23,10 +23,10 @@ The following "slices" were analyzed to obtain further insight by the following 
 
 Below are just some of the procedures and calculations
 
-    As you can see, the city type "RURAL" had the highest average fare per ride, and "UBRAN had the highest total rides and drivers.
+As you can see, the city type "RURAL" had the highest average fare per ride, and "UBRAN had the highest total rides and drivers.
 This makes sense, due to the fact that RURAL would have a larger origin-to-destination distance.
 
-    "URBAN" would have the highest demand for rides, the highest total rides and highest total drivers, 
+"URBAN" would have the highest demand for rides, the highest total rides and highest total drivers, 
 while still having the lowest fare per driver.
 
 Total rides and total drivers for each city type 
