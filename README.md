@@ -22,5 +22,6 @@ The following "slices" were analyzed to obtain further insight by the following 
 ## Results
 
 Average Far per Driver Per City Type
+
 ![image](https://user-images.githubusercontent.com/8845050/168445116-1327bd19-eb58-4f7d-8ac2-1a5805374f17.png)
 
