@@ -21,7 +21,12 @@ The following "slices" were analyzed to obtain further insight by the following 
 
 ## Results
 
-Average Far per Driver Per City Type
+Average Fare per Driver Per City Type
 
 ![image](https://user-images.githubusercontent.com/8845050/168445116-1327bd19-eb58-4f7d-8ac2-1a5805374f17.png)
 
+Total rides and total drivers for each city type 
+
+![image](https://user-images.githubusercontent.com/8845050/168445264-d8d49bc1-f056-4439-b520-6a36b3ced055.png)
+
+Total Amount of fares for each city type, Average Fare per Ride for each city type, and Average Fare per driver for each city type
