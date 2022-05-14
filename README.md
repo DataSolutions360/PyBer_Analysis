@@ -1,2 +1,3 @@
 # PyBer_Analysis
-![Pyber Challenge](/Pyber_Challenge.pdf "Pyber_Challenge")
+<embed src="/blog/images/Pyber_challenge.pdf" type="application/pdf">
+
