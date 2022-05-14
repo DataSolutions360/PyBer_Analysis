@@ -1,3 +1,3 @@
 # PyBer_Analysis
-<embed src="Pyber_challenge.pdf" type="application/pdf">
+<embed src="/Pyber_Challenge.pdf" type="application/pdf">
 
