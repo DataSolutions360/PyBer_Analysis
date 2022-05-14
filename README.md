@@ -12,8 +12,8 @@ The following "slices" were analyzed to obtain further insight by the following 
   - Total Fares
   - Average Fares per Ride
 
--Using the GROUPBY function, we were able to group the fares by city and data.  This was placed in a data frame using the DataFrame function
--Loc function was used to organize the pivot table within the given date range
--The Copy function was used to create the city type and fare columns.  This was to create a new Data Frame.
--Index Function was used to set and re-set the date time index
+- Using the GROUPBY function, we were able to group the fares by city and data.  This was placed in a data frame using the DataFrame function
+- Loc function was used to organize the pivot table within the given date range
+- The Copy function was used to create the city type and fare columns.  This was to create a new Data Frame.
+- Index Function was used to set and re-set the date time index
 
