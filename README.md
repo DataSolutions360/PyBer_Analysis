@@ -16,4 +16,10 @@ The following "slices" were analyzed to obtain further insight by the following 
 - Loc function was used to organize the pivot table within the given date range
 - The Copy function was used to create the city type and fare columns.  This was to create a new Data Frame.
 - Index Function was used to set and re-set the date time index
+- The pivot table was resampled using the Resample and Sum Functions
+- Info Function was used to check the index on the new data frame
+
+## Results
+
+
 
