@@ -30,3 +30,6 @@ Total rides and total drivers for each city type
 ![image](https://user-images.githubusercontent.com/8845050/168445264-d8d49bc1-f056-4439-b520-6a36b3ced055.png)
 
 Total Amount of fares for each city type, Average Fare per Ride for each city type, and Average Fare per driver for each city type
+
+![image](https://user-images.githubusercontent.com/8845050/168445306-92803f74-0aae-4a8b-9b44-e1a295a9303d.png)
+
