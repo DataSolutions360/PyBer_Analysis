@@ -7,10 +7,10 @@ improve access to ride sharing services and determine ride affordability.
 
 The following "slices" were analyzed to obtain further insight by the following factors:
 
-  - Total Drivers
-  - Total Rides
-  - Total Fares
-  - Average Fares per Ride
+    - Total Drivers
+    - Total Rides
+    - Total Fares
+    - Average Fares per Ride
 
 - Using the GROUPBY function, we were able to group the fares by city and data.  This was placed in a data frame using the DataFrame function
 - Loc function was used to organize the pivot table within the given date range
