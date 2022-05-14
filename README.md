@@ -21,6 +21,14 @@ The following "slices" were analyzed to obtain further insight by the following 
 
 ## Results
 
+Below are just some of the procedures and calculations
+
+    As you can see, the city type "RURAL" had the highest average fare per ride, and "UBRAN had the highest total rides and drivers.
+This makes sense, due to the fact that RURAL would have a larger origin-to-destination distance.
+
+    "URBAN" would have the highest demand for rides, the highest total rides and highest total drivers, 
+while still having the lowest fare per driver.
+
 Total rides and total drivers for each city type 
 
 ![image](https://user-images.githubusercontent.com/8845050/168445264-d8d49bc1-f056-4439-b520-6a36b3ced055.png)
@@ -32,6 +40,10 @@ Total Amount of fares for each city type, Average Fare per Ride for each city ty
 Resample function split by Week "W" and aggregate of weekly fares.
 
 ![image](https://user-images.githubusercontent.com/8845050/168445424-3dc7bce5-a081-4769-8549-4587bc239183.png)
+
+Cleansing and formatting the Summary to make for aesthetic, professionally legible reporting
+
+![image](https://user-images.githubusercontent.com/8845050/168445745-688a76e9-7a05-4a1d-8e0b-514643068e2c.png)
 
 Using Object-Oriented interface method, we plotted the resample using df.plot() function
 
