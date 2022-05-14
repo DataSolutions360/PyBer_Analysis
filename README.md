@@ -23,6 +23,8 @@ The following "slices" were analyzed to obtain further insight by the following 
 
 Below are just some of the procedures and calculations
 
+The approach is to understand the progression from crude calcualtions to aesthetically pleasing presentable graphs and organized data.
+
 As you can see, the city type "RURAL" had the highest average fare per ride, and "UBRAN had the highest total rides and drivers.
 This makes sense, due to the fact that RURAL would have a larger origin-to-destination distance.
 
