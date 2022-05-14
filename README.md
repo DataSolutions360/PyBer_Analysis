@@ -44,11 +44,8 @@ Resample function split by Week "W" and aggregate of weekly fares.
 ![image](https://user-images.githubusercontent.com/8845050/168445424-3dc7bce5-a081-4769-8549-4587bc239183.png)
 
 Cleansing and formatting the Summary to make for aesthetic, professionally legible reporting
-
-    This summary demonstrates that URBAN fares, albeit small on average, yield a higher revenue that RURAL.  
-    
+This summary demonstrates that URBAN fares, albeit small on average, yield a higher revenue that RURAL.  
 As a Pyber Driver, I would focus on quality, not quantity....better use of my time.
-
 As a Pyber executive, I would be focused on total revenue, and high demand areas, for sustainability.
 
 ![image](https://user-images.githubusercontent.com/8845050/168445745-688a76e9-7a05-4a1d-8e0b-514643068e2c.png)
