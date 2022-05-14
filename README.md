@@ -29,3 +29,12 @@ Total Amount of fares for each city type, Average Fare per Ride for each city ty
 
 ![image](https://user-images.githubusercontent.com/8845050/168445306-92803f74-0aae-4a8b-9b44-e1a295a9303d.png)
 
+Resample function split by Week "W" and aggregate of weekly fares.
+
+![image](https://user-images.githubusercontent.com/8845050/168445424-3dc7bce5-a081-4769-8549-4587bc239183.png)
+
+Using Object-Oriented interface method, we plotted the resample using df.plot() function
+
+![image](https://user-images.githubusercontent.com/8845050/168445379-fa175b2e-8946-43d9-99e8-2f8be5188ded.png)
+
+
